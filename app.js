@@ -1,4 +1,4 @@
-const API_KEY = "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"
+const API_KEY = ""
 
 async function fetchData() {
     const response = await fetch("https://api.openai.com/v1/completions", {
